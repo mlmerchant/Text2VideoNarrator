@@ -1,6 +1,6 @@
 # Text 2 Video Narrator
 
-This PowerShell script allows you to create videos from specially formatted text files using AWS Polly for text-to-speech conversion. The script reads the input text file, generates PowerPoint slides with appropriate content, and then exports them as video files. The process involves the use of AWS Polly for voice synthesis and the AWS CLI configured with a user having rights to Polly.
+This PowerShell script allows you to create videos from specially formatted text files using Amazon Polly for text-to-speech conversion. The script reads the input text file, generates PowerPoint slides with appropriate content, and then exports them as video files. The process involves the use of AWS Polly for voice synthesis and the AWS CLI configured with a user having rights to Polly.
 
 ## Prerequisites
 
